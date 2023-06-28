@@ -24,3 +24,9 @@
 `update customers set salary = 3000 where id = 3;`
 
 6. Изменения отобразились на фронте
+
+До
+![Before](./screenshots/before.png)
+
+После
+![After](./screenshots/after.png)
